@@ -1,6 +1,6 @@
-# 📉 Linear Regression from Scratch (NumPy)
+# Linear Regression from Scratch (NumPy)
 
-## 🧠 Project Overview
+## Project Overview
 In machine learning, it is easy to rely on "black box" libraries like Scikit-Learn. To truly understand the underlying algorithms, I implemented **Linear Regression** from first principles using only Python and NumPy.
 
 This project implements **Gradient Descent** optimization to minimize the Mean Squared Error (MSE) cost function, demonstrating a deep understanding of vectorization and calculus-based learning.
