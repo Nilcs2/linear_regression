@@ -18,7 +18,7 @@ The model successfully converged to the optimal parameters using synthetic data.
 ## How to Run
 1.  Clone the repository:
     ```bash
-    git clone [YOUR_NEW_REPO_LINK_HERE]
+    git clone https://github.com/Nilcs2/linear_regression
     ```
 2.  Install dependencies:
     ```bash
